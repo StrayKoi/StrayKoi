@@ -1,7 +1,7 @@
 # Hello, I'm Barbara 👋
-- 🌱 I’m currently learning Python
-- ♥ Likes: Drawing, manga, and video games
 - 😄 Pronouns: She/Her
+- 💖 Likes: Drawing, manga, and video games
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I can sing the alphabet backwards off the top of my head.
 - 🌎 Find me on [Instagram](https://www.instagram.com/stray.koi/) where I make vector art in Affinity Designer.
 
