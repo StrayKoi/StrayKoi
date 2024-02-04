@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I can sing the alphabet backwards off the top of my head.
 - 🌎 Find me on [Instagram](https://www.instagram.com/stray.koi/) where I make vector art in Affinity Designer.
+- 🎨 My graphic design and illustration portfolio is on [ArtStation](https://straykoi.artstation.com/).
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
